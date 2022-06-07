@@ -1,5 +1,18 @@
-### Hi there 👋
+### Привет! 👋
 
+Я Максим Андрофагин, разработчик на Java.
+
+### Вот что я умею
+
+* [Дипломная работа](https://github.com/Komakc/Diplom_SearchSystem "Диплом")
+* [Курсовая работа к модулю Java Core](https://github.com/Komakc/TODOs-CourseWork "Курсовая работа")
+* [Интересная задача с протоколом HTTP](https://github.com/Komakc/NetoCore-3.2.2_ReadAPINASA "Протокол HTTP")
+
+### Сертификаты Нетологии
+
+* [Java](certificate/Java_certificate.pdf "Java_certificate")
+* [SQL](certificate/SQL_certificate.pdf "SQL_certificate")
+* [WEB](certificate/WEB_certificate.pdf "WEB_certificate")
 <!--
 **Komakc/Komakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
