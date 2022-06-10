@@ -10,9 +10,9 @@
 
 ### Сертификаты Нетологии
 
-* [Java](certificate/Java_certificate.pdf "Java_certificate")
-* [SQL](certificate/SQL_certificate.pdf "SQL_certificate")
-* [WEB](certificate/WEB_certificate.pdf "WEB_certificate")
+* [Java](Java_certificate.pdf "Java_certificate")
+* [SQL](SQL_certificate.pdf "SQL_certificate")
+* [WEB](WEB_certificate.pdf "WEB_certificate")
 <!--
 **Komakc/Komakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
